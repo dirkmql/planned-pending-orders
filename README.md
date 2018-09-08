@@ -2,6 +2,7 @@ PlannedPendingOrders (MQL4 Script)
 ==================================
 Create limit orders depending on horziontal lines you have set in the chart
 and based on an aspired risk you can change.
+For an introduction with screenshots go here: https://www.mql5.com/en/code/21804
 
 Installation
 ------------
